@@ -1,0 +1,6 @@
+checkpoint/
+spark-warehouse/
+*.class
+*.log
+target/
+.idea/
